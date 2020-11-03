@@ -14,6 +14,7 @@ public final class UseCollection {
      *            unused
      */
     public static void main(final String... s) {
+    	System.out.print("dfaadf");
         /*
          * 1) Create a new ArrayList<Integer>, and populate it with the numbers
          * from 1000 (included) to 2000 (excluded).
