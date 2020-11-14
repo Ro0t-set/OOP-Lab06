@@ -15,6 +15,8 @@ public final class UseCollection {
 	private final static int INDEX0 = 0;
 	private static final int TIME_ELEM = 100000;
 	private static final int TO_MS = 1000000;
+	
+	
 	private static final Long AFRICA_POPULATION = 1_110_635_000L;
 	private static final Long AMERICAS_POPULATION = 972_005_000L;
 	private static final Long ANTARCTICA_POPULATION = 0L;
